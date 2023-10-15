@@ -1,6 +1,6 @@
 # RSS Allt-i-allo
 
-![GitHub](https://img.shields.io/github/license/yourusername/rss-news-aggregator)
+![GitHub](https://img.shields.io/github/license/antonlovg/rss-nyheter)
 
 ## Beskrivning
 
